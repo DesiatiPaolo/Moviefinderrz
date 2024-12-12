@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Moviefinderrz</string>
+    <string name="login">Accedi</string>
+    <string name="loginImageDescription">Login picture</string>
+    <string name="loginSignUp">Non hai un Account?\u00A0</string>
+    <string name="signUp">Registrati</string>
 </resources>
