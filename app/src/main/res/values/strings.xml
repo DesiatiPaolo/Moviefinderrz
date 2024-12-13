@@ -4,4 +4,14 @@
     <string name="loginImageDescription">Login picture</string>
     <string name="loginSignUp">Non hai un Account?\u00A0</string>
     <string name="signUp">Registrati</string>
+    <string name="signUpDescription">Registrati per accedere a tutte le funzionalità.</string>
+    <string name="loginDescription">Effettua l\'accesso per continuare.</string>
+    <string name="username">Nome utente</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Conferma password</string>
+    <string name="next">Avanti</string>
+    <string name="back">Indietro</string>
+    <string name="profileImageDescription">Icona utente</string>
+    <string name="usernameOrEmail">Nome utente o email</string>
 </resources>

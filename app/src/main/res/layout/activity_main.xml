@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#1c1c1c"
+    android:background="@color/black"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="24dp"
@@ -30,6 +30,7 @@
 
         <com.example.moviefinderrz.UI.MFButton
             android:id="@+id/button"
+            android:fontFamily="@font/rubik_regular"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
@@ -48,6 +49,7 @@
             android:layout_height="wrap_content"
             android:text="@string/loginSignUp"
             android:textAlignment="center"
+            android:fontFamily="@font/rubik_regular"
             android:textColor="@color/white" />
 
         <TextView
@@ -56,8 +58,12 @@
             android:layout_height="wrap_content"
             android:clickable="true"
             android:focusable="true"
+            android:padding="10dp"
+            android:paddingStart="0dp"
+            android:fontFamily="@font/rubik_regular"
             android:text="@string/signUp"
-            android:textColor="@color/orange" />
+            android:textColor="@drawable/link_color"
+            tools:ignore="RtlSymmetry" />
 
     </LinearLayout>
 
